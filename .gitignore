@@ -1,0 +1,46 @@
+# R / RStudio
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# renv
+renv/library/
+renv/staging/
+renv/python/
+!renv/activate.R
+!renv/settings.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs / temp
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
+
+# Output figures
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.emf
+*.wmf
+
+# Spreadsheet / result exports
+*.csv
+*.tsv
+*.xlsx
+
+# If you have local test data you don't want to upload, uncomment these:
+# data/
+# test_data/
+# sample_data/
+
+# Quarto / cache / misc
+_cache/
+quarto_cache/
