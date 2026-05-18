@@ -1,5 +1,5 @@
 
-# Protein Candidate Explorer Shiny App (v25)
+# Protein Candidate Explorer Shiny App (v29)
 # Modes:
 # 1) Gene-list mode: existing annotation/enrichment workflow for pre-filtered gene/protein lists
 # 2) Raw-data mode: raw abundance table -> QC/cleaning -> differential analysis -> volcano -> enrichment -> ion annotation
